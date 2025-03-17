@@ -1,5 +1,5 @@
 /*
-Sample Program of Function in C 
+Sample Program of Function in C
 */
 #include<stdio.h>
 void mahes()
