@@ -1,4 +1,4 @@
-//Recursion Function in C programming
+//Recursion Function in C 
 #include<stdio.h>
 int factorial(int i)
 {
